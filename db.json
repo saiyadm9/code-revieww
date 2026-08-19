@@ -1,0 +1,493 @@
+{
+  "leagues": [
+    {
+      "country": "Albania",
+      "name": "1st Division",
+      "season": 2011,
+      "start": "2011-09-10",
+      "end": "2012-05-12",
+      "current": false,
+      "id_v3": 311,
+      "id_v2": 1496
+    },
+    {
+      "country": "Albania",
+      "name": "1st Division",
+      "season": 2012,
+      "start": "2012-09-01",
+      "end": "2013-05-12",
+      "current": false,
+      "id_v3": 311,
+      "id_v2": 1495
+    },
+    {
+      "country": "Albania",
+      "name": "1st Division",
+      "season": 2013,
+      "start": "2013-08-31",
+      "end": "2014-05-10",
+      "current": false,
+      "id_v3": 311,
+      "id_v2": 1494
+    },
+    {
+      "country": "Albania",
+      "name": "Superliga",
+      "season": 2018,
+      "start": "2018-08-19",
+      "end": "2019-05-30",
+      "current": false,
+      "id_v3": 310,
+      "id_v2": 442
+    },
+    {
+      "country": "Albania",
+      "name": "Superliga",
+      "season": 2022,
+      "start": "2022-08-20",
+      "end": "2023-05-29",
+      "current": false,
+      "id_v3": 310,
+      "id_v2": 3064
+    },
+    {
+      "country": "England",
+      "name": "Premier League",
+      "season": 2021,
+      "start": "2021-08-13",
+      "end": "2022-05-22",
+      "current": false,
+      "id_v3": 39,
+      "id_v2": 3456
+    },
+    {
+      "country": "England",
+      "name": "Premier League",
+      "season": 2022,
+      "start": "2022-08-05",
+      "end": "2023-05-28",
+      "current": false,
+      "id_v3": 39,
+      "id_v2": 4567
+    },
+    {
+      "country": "England",
+      "name": "Premier League",
+      "season": 2023,
+      "start": "2023-08-11",
+      "end": "2024-05-19",
+      "current": false,
+      "id_v3": 39,
+      "id_v2": 5678
+    },
+    {
+      "country": "England",
+      "name": "Premier League",
+      "season": 2024,
+      "start": "2024-08-16",
+      "end": "2025-05-25",
+      "current": false,
+      "id_v3": 39,
+      "id_v2": 6789
+    },
+    {
+      "country": "England",
+      "name": "Premier League",
+      "season": 2025,
+      "start": "2025-08-15",
+      "end": "2026-05-24",
+      "current": true,
+      "id_v3": 39,
+      "id_v2": 7890
+    },
+    {
+      "country": "Spain",
+      "name": "La Liga",
+      "season": 2021,
+      "start": "2021-08-13",
+      "end": "2022-05-22",
+      "current": false,
+      "id_v3": 140,
+      "id_v2": 2011
+    },
+    {
+      "country": "Spain",
+      "name": "La Liga",
+      "season": 2022,
+      "start": "2022-08-12",
+      "end": "2023-06-04",
+      "current": false,
+      "id_v3": 140,
+      "id_v2": 2022
+    },
+    {
+      "country": "Spain",
+      "name": "La Liga",
+      "season": 2023,
+      "start": "2023-08-11",
+      "end": "2024-05-26",
+      "current": false,
+      "id_v3": 140,
+      "id_v2": 2033
+    },
+    {
+      "country": "Spain",
+      "name": "La Liga",
+      "season": 2024,
+      "start": "2024-08-15",
+      "end": "2025-05-25",
+      "current": false,
+      "id_v3": 140,
+      "id_v2": 2044
+    },
+    {
+      "country": "Spain",
+      "name": "La Liga",
+      "season": 2025,
+      "start": "2025-08-15",
+      "end": "2026-05-24",
+      "current": true,
+      "id_v3": 140,
+      "id_v2": 2055
+    },
+    {
+      "country": "Germany",
+      "name": "Bundesliga",
+      "season": 2022,
+      "start": "2022-08-05",
+      "end": "2023-05-27",
+      "current": false,
+      "id_v3": 78,
+      "id_v2": 3122
+    },
+    {
+      "country": "Germany",
+      "name": "Bundesliga",
+      "season": 2023,
+      "start": "2023-08-18",
+      "end": "2024-05-18",
+      "current": false,
+      "id_v3": 78,
+      "id_v2": 3133
+    },
+    {
+      "country": "Germany",
+      "name": "Bundesliga",
+      "season": 2024,
+      "start": "2024-08-23",
+      "end": "2025-05-17",
+      "current": false,
+      "id_v3": 78,
+      "id_v2": 3144
+    },
+    {
+      "country": "Germany",
+      "name": "Bundesliga",
+      "season": 2025,
+      "start": "2025-08-22",
+      "end": "2026-05-16",
+      "current": true,
+      "id_v3": 78,
+      "id_v2": 3155
+    },
+    {
+      "country": "Italy",
+      "name": "Serie A",
+      "season": 2021,
+      "start": "2021-08-21",
+      "end": "2022-05-22",
+      "current": false,
+      "id_v3": 135,
+      "id_v2": 4101
+    },
+    {
+      "country": "Italy",
+      "name": "Serie A",
+      "season": 2023,
+      "start": "2023-08-19",
+      "end": "2024-05-26",
+      "current": false,
+      "id_v3": 135,
+      "id_v2": 4123
+    },
+    {
+      "country": "Italy",
+      "name": "Serie A",
+      "season": 2025,
+      "start": "2025-08-23",
+      "end": "2026-05-24",
+      "current": true,
+      "id_v3": 135,
+      "id_v2": 4145
+    },
+    {
+      "country": "France",
+      "name": "Ligue 1",
+      "season": 2022,
+      "start": "2022-08-05",
+      "end": "2023-06-03",
+      "current": false,
+      "id_v3": 61,
+      "id_v2": 5102
+    },
+    {
+      "country": "France",
+      "name": "Ligue 1",
+      "season": 2024,
+      "start": "2024-08-16",
+      "end": "2025-05-17",
+      "current": false,
+      "id_v3": 61,
+      "id_v2": 5124
+    },
+    {
+      "country": "France",
+      "name": "Ligue 1",
+      "season": 2025,
+      "start": "2025-08-15",
+      "end": "2026-05-16",
+      "current": true,
+      "id_v3": 61,
+      "id_v2": 5135
+    },
+    {
+      "country": "Brazil",
+      "name": "Serie A",
+      "season": 2022,
+      "start": "2022-04-09",
+      "end": "2022-11-13",
+      "current": false,
+      "id_v3": 71,
+      "id_v2": 6202
+    },
+    {
+      "country": "Brazil",
+      "name": "Serie A",
+      "season": 2023,
+      "start": "2023-04-15",
+      "end": "2023-12-06",
+      "current": false,
+      "id_v3": 71,
+      "id_v2": 6213
+    },
+    {
+      "country": "Brazil",
+      "name": "Serie A",
+      "season": 2025,
+      "start": "2025-03-29",
+      "end": "2025-12-07",
+      "current": false,
+      "id_v3": 71,
+      "id_v2": 6235
+    },
+    {
+      "country": "Argentina",
+      "name": "Liga Profesional",
+      "season": 2022,
+      "start": "2022-06-03",
+      "end": "2022-10-23",
+      "current": false,
+      "id_v3": 128,
+      "id_v2": 7302
+    },
+    {
+      "country": "Argentina",
+      "name": "Liga Profesional",
+      "season": 2023,
+      "start": "2023-01-27",
+      "end": "2023-07-30",
+      "current": false,
+      "id_v3": 128,
+      "id_v2": 7313
+    },
+    {
+      "country": "Netherlands",
+      "name": "Eredivisie",
+      "season": 2023,
+      "start": "2023-08-11",
+      "end": "2024-05-19",
+      "current": false,
+      "id_v3": 88,
+      "id_v2": 8103
+    },
+    {
+      "country": "Netherlands",
+      "name": "Eredivisie",
+      "season": 2024,
+      "start": "2024-08-09",
+      "end": "2025-05-18",
+      "current": false,
+      "id_v3": 88,
+      "id_v2": 8114
+    },
+    {
+      "country": "Portugal",
+      "name": "Primeira Liga",
+      "season": 2022,
+      "start": "2022-08-05",
+      "end": "2023-05-27",
+      "current": false,
+      "id_v3": 94,
+      "id_v2": 9202
+    },
+    {
+      "country": "Portugal",
+      "name": "Primeira Liga",
+      "season": 2024,
+      "start": "2024-08-09",
+      "end": "2025-05-17",
+      "current": false,
+      "id_v3": 94,
+      "id_v2": 9224
+    },
+    {
+      "country": "Turkey",
+      "name": "Super Lig",
+      "season": 2023,
+      "start": "2023-08-11",
+      "end": "2024-05-26",
+      "current": false,
+      "id_v3": 203,
+      "id_v2": 10303
+    },
+    {
+      "country": "Turkey",
+      "name": "Super Lig",
+      "season": 2025,
+      "start": "2025-08-08",
+      "end": "2026-05-17",
+      "current": true,
+      "id_v3": 203,
+      "id_v2": 10325
+    },
+    {
+      "country": "Belgium",
+      "name": "Jupiler Pro League",
+      "season": 2024,
+      "start": "2024-07-26",
+      "end": "2025-05-25",
+      "current": false,
+      "id_v3": 144,
+      "id_v2": 11424
+    },
+    {
+      "country": "Scotland",
+      "name": "Premiership",
+      "season": 2023,
+      "start": "2023-08-05",
+      "end": "2024-05-19",
+      "current": false,
+      "id_v3": 179,
+      "id_v2": 12503
+    },
+    {
+      "country": "Scotland",
+      "name": "Premiership",
+      "season": 2025,
+      "start": "2025-08-02",
+      "end": "2026-05-17",
+      "current": true,
+      "id_v3": 179,
+      "id_v2": 12525
+    }
+  ],
+
+  "galleryData": [
+    {
+      "id": 0,
+      "content": "/gallery/0.jpg"
+    },
+    {
+      "id": 1,
+      "content": "/gallery/1.jpg"
+    },
+    {
+      "id": 101,
+      "content": "/gallery/01.jpg"
+    },
+    {
+      "id": 2,
+      "content": "/gallery/2.jpg"
+    },
+    {
+      "id": 3,
+      "content": "/gallery/3.jpg"
+    },
+    {
+      "id": 4,
+      "content": "/gallery/4.jpg"
+    },
+    {
+      "id": 104,
+      "content": "/gallery/04.jpg"
+    },
+    {
+      "id": 5,
+      "content": "/gallery/5.jpg"
+    },
+    {
+      "id": 6,
+      "content": "/gallery/6.jpg"
+    },
+    {
+      "id": 7,
+      "content": "/gallery/7.jpg"
+    },
+    {
+      "id": 8,
+      "content": "/gallery/8.jpg"
+    },
+    {
+      "id": 9,
+      "content": "/gallery/9.jpg"
+    },
+    {
+      "id": 10,
+      "content": "/gallery/10.jpg"
+    },
+    {
+      "id": 11,
+      "content": "/gallery/11.jpg"
+    },
+    {
+      "id": 12,
+      "content": "/gallery/12.jpg"
+    },
+    {
+      "id": 13,
+      "content": "/gallery/13.jpg"
+    },
+    {
+      "id": 14,
+      "content": "/gallery/14.jpg"
+    },
+    {
+      "id": 15,
+      "content": "/gallery/15.jpg"
+    },
+    {
+      "id": 16,
+      "content": "/gallery/16.jpg"
+    },
+    {
+      "id": 17,
+      "content": "/gallery/17.jpg"
+    },
+    {
+      "id": 18,
+      "content": "/gallery/18.jpg"
+    },
+    {
+      "id": 19,
+      "content": "/gallery/19.jpg"
+    },
+    {
+      "id": 20,
+      "content": "/gallery/20.jpg"
+    },
+    {
+      "id": 21,
+      "content": "/gallery/21.jpg"
+    }
+  ]
+}
